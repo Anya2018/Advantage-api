@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VnYsQXJPZeMmCJRvdLGhW3y0F7IZpoB//ZxLLz4GOyhUt1IFzOTHMO2vtWyfL14Fh/usSAjWW3bcmmTge+hFQ==",
+  "dgSpecHash": "K7KrtkQgI4I1nMilE6srpcfUhjZo0R2VVlcezyrcghxL/ftxOfAtsClkbW75nFaiACxQ4JTqFlPx3YUQ0FJB/Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\david\\Projects\\Advantage.API\\Advantage.API.csproj",
+  "projectFilePath": "C:\\Users\\david\\Projects\\Advantage.API\\Advantage.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
@@ -111,6 +111,7 @@
     "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\2.0.0\\microsoft.entityframeworkcore.sqlite.core.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\2.0.0\\microsoft.entityframeworkcore.sqlserver.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\2.0.0\\microsoft.entityframeworkcore.tools.2.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore.tools.dotnet\\2.0.0\\microsoft.entityframeworkcore.tools.dotnet.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.0.0\\microsoft.extensions.caching.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.0.0\\microsoft.extensions.caching.memory.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.caching.redis\\2.0.0\\microsoft.extensions.caching.redis.2.0.0.nupkg.sha512",
@@ -174,6 +175,8 @@
     "C:\\Users\\david\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\npgsql\\3.2.5\\npgsql.3.2.5.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\2.0.0\\npgsql.entityframeworkcore.postgresql.2.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\remotion.linq\\2.1.1\\remotion.linq.2.1.1.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

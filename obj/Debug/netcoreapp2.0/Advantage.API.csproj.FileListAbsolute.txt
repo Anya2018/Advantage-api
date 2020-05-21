@@ -1,0 +1,11 @@
+C:\Users\david\Projects\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.deps.json
+C:\Users\david\Projects\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.json
+C:\Users\david\Projects\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.dev.json
+C:\Users\david\Projects\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.dll
+C:\Users\david\Projects\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.pdb
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.csproj.CoreCompileInputs.cache
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfo.cs
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.dll
+C:\Users\david\Projects\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.pdb
